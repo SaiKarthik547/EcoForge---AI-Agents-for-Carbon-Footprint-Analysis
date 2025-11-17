@@ -1,0 +1,12 @@
+streamlit
+pydeck
+plotly
+pandas
+numpy
+requests
+asyncio-mqtt
+python-dotenv
+langchain
+langsmith
+langgraph
+google-generativeai
